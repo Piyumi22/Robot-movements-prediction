@@ -1,4 +1,4 @@
-This github repo contains the Report of the project and the google colab files used for the project work.
+This github repo contains the Report of the project and the google colab files used for the project work are in this github account :https://github.com/Group-ProjectE17
 
 PROJECT TITLE – MACHINE LEARNING MODEL DEVELOPMENT FOR A SOFT 
 PNEUMATIC DRIVEN ROBOT
